@@ -1,0 +1,14 @@
+/home/andrelzlima7/Documentos/C#/TaskManager/bin/Debug/net8.0/TaskManager
+/home/andrelzlima7/Documentos/C#/TaskManager/bin/Debug/net8.0/TaskManager.deps.json
+/home/andrelzlima7/Documentos/C#/TaskManager/bin/Debug/net8.0/TaskManager.runtimeconfig.json
+/home/andrelzlima7/Documentos/C#/TaskManager/bin/Debug/net8.0/TaskManager.dll
+/home/andrelzlima7/Documentos/C#/TaskManager/bin/Debug/net8.0/TaskManager.pdb
+/home/andrelzlima7/Documentos/C#/TaskManager/obj/Debug/net8.0/TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrelzlima7/Documentos/C#/TaskManager/obj/Debug/net8.0/TaskManager.AssemblyInfoInputs.cache
+/home/andrelzlima7/Documentos/C#/TaskManager/obj/Debug/net8.0/TaskManager.AssemblyInfo.cs
+/home/andrelzlima7/Documentos/C#/TaskManager/obj/Debug/net8.0/TaskManager.csproj.CoreCompileInputs.cache
+/home/andrelzlima7/Documentos/C#/TaskManager/obj/Debug/net8.0/TaskManager.dll
+/home/andrelzlima7/Documentos/C#/TaskManager/obj/Debug/net8.0/refint/TaskManager.dll
+/home/andrelzlima7/Documentos/C#/TaskManager/obj/Debug/net8.0/TaskManager.pdb
+/home/andrelzlima7/Documentos/C#/TaskManager/obj/Debug/net8.0/TaskManager.genruntimeconfig.cache
+/home/andrelzlima7/Documentos/C#/TaskManager/obj/Debug/net8.0/ref/TaskManager.dll
