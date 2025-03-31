@@ -10,8 +10,7 @@ Este é um **projeto simples de Gerenciador de Tarefas** desenvolvido em C#. Ele
 
 1. **Baixe o código** ou clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/gerenciador-tarefas-csharp.git
-   cd gerenciador-tarefas-csharp
+   git clone https://github.com/andrelzlima7/TaskManagerCSharp.git
 2. **Compile e execute o programa** com o .NET:
    ```sh
    dotnet run
